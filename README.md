@@ -20,9 +20,10 @@ El proyecto permite agregar nombres a una lista y seleccionar aleatoriamente un 
 Para ejecutar este proyecto en tu entorno local:
 
 1. Clona el repositorio en tu computadora:
-   ```sh git clone https://github.com/rodrigogd12/amigoSecreto_RodiGonzales.git
+
+   git clone https://github.com/rodrigogd12/amigoSecreto_RodiGonzales.git
   
-2. Abre el archivo index.html en tu navegador.
+3. Abre el archivo index.html en tu navegador.
 
 Uso
 
