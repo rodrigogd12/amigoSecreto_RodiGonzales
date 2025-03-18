@@ -21,7 +21,7 @@ Para ejecutar este proyecto en tu entorno local:
 
 1. Clona el repositorio en tu computadora:
 
-   git clone https://github.com/rodrigogd12/amigoSecreto_RodiGonzales.git
+         git clone https://github.com/rodrigogd12/amigoSecreto_RodiGonzales.git
   
 3. Abre el archivo index.html en tu navegador.
 
@@ -34,6 +34,6 @@ Uso
 
 Reglas del Juego
 
-    1. No se permiten nombres vacíos.
-    2. No se pueden agregar nombres repetidos.
-    3. El sorteo se realiza de manera aleatoria entre los participantes registrados.
+   1. No se permiten nombres vacíos.
+   2. No se pueden agregar nombres repetidos.
+   3. El sorteo se realiza de manera aleatoria entre los participantes registrados.
